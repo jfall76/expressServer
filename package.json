@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jfall76/expressServer/issues"
   },
-  "homepage": "https://github.com/jfall76/expressServer"
+  "homepage": "https://github.com/jfall76/expressServer",
+  "dependencies": {
+    "express": "^4.7.4"
+  }
 }
